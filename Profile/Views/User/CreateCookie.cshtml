@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<form asp-action="SetCookie" asp-controller="User" method="post">
+    <div class="mb-3">
+        <label for="CookieName1" class="form-label">CookieName(1)</label>
+        <input type="text" class="form-control" id="CookieName1" name="CookieName1" required>
+    </div>
+    <div class="mb-3">
+        <label for="CookieValue1" class="form-label">CookieValue(1)</label>
+        <input type="text" class="form-control" id="CookieValue1" name="CookieValue1" required>
+    </div>
+
+    <div class="mb-3">
+        <label for="CookieName2" class="form-label">CookieName(2)</label>
+        <input type="text" class="form-control" id="CookieName2" name="CookieName2" >
+    </div>
+    <div class="mb-3">
+        <label for="CookieValue2" class="form-label">CookieValue(2)</label>
+        <input type="text" class="form-control" id="CookieValue2" name="CookieValue2" >
+    </div>
+
+
+    <button type="submit" class="btn btn-primary">Set Cokkies</button>
+</form>

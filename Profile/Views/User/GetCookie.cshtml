@@ -1,0 +1,46 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<KeyValuePair<string, string>>
+
+<h2>Retrieved Cookies</h2>
+
+@if (Model.Count > 0)
+{
+<div class="table-responsive">
+    <table class="cookie-table">        <thead>
+            <tr>
+                <th>Cookie Name</th>
+                <th>Cookie Value</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var cookie in Model)
+            {
+                <tr>
+                    <td>@cookie.Key</td>
+                    <td>@cookie.Value</td>
+                    <td>
+                        @using (Html.BeginForm("DeleteCookie", "User", FormMethod.Post))
+                        {
+                            <input type="hidden" name="cookieName" value="@cookie.Key" />
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    </div>
+
+}
+else
+{
+    <p>No cookies found.</p>
+}
+
+
+<a href="@Url.Action("CreateCookie", "User")" class="btn btn-primary">Add New Cookies</a>

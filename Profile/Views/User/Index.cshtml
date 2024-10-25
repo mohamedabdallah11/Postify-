@@ -1,0 +1,53 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model List<User>
+
+@{
+    ViewData["Title"] = "User List";
+}
+@if (!string.IsNullOrEmpty(ViewBag.TempDataMessage))
+{
+    <div class="alert alert-success">@ViewBag.TempDataMessage</div>
+}
+@{
+    int id = 1;
+}
+@if (ViewBag.UserName != null)
+{
+    <p>Welcome, @ViewBag.UserName!</p>
+}
+
+<a class="btn btn-primary" href="/User/Create">Create User</a>
+
+<h2>User List</h2>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Email</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var user in Model)
+    {
+        <tr>
+            <td>@(id++)</td>
+            <td>@user.Name</td>
+            <td>@user.Age</td>
+            <td>@user.Email</td>
+            <td>
+                <a class="btn btn-primary" href="/User/Show/@user.Id">View</a>
+                <a class="btn btn-primary" href="/User/Edit/@user.Id">Edit</a>
+                <a class="btn btn-danger" href="/User/Delete/@user.Id">Delete</a>
+            </td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,33 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+    position: relative;
+    scroll-behavior: smooth;
+    min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.cookie-table {
+    width: 100%; /* Make the table take the full width of the container */
+    border-collapse: collapse; /* Ensures borders are collapsed into a single border */
+}
+
+    .cookie-table th, .cookie-table td {
+        border: 1px solid #ccc; /* Optional: border for visibility */
+        padding: 10px; /* Add some padding for better readability */
+        text-align: left; /* Align text to the left */
+    }

@@ -1,0 +1,39 @@
+﻿        @*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<Profile.Models.Post>
+
+<h2>Posts</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Category</th>
+            <th>Body</th>
+            <th>Likes</th>
+            <th>User</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var post in Model)
+        {
+            <tr>
+                <td>@post.Title</td>
+                <td>@post.Category</td>
+                <td>@post.Body</td>
+                <td>@post.Likes</td>
+                <td>@post.user.Name</td> 
+                <td>
+                    <a asp-action="Edit" asp-route-id="@post.Id">Edit</a> |
+                    <a asp-action="Delete" asp-route-id="@post.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create">Create New Post</a>

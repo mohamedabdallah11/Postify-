@@ -1,0 +1,421 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Profile.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Profile.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\b1.jpg",
+      "PackagePath": "staticwebassets\\images\\b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\b2.jpg",
+      "PackagePath": "staticwebassets\\images\\b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\c1.jpg",
+      "PackagePath": "staticwebassets\\images\\c1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\c2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\client1.png",
+      "PackagePath": "staticwebassets\\images\\client1.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\client2.png",
+      "PackagePath": "staticwebassets\\images\\client2.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\facebook.png",
+      "PackagePath": "staticwebassets\\images\\facebook.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\footer-img.jpg",
+      "PackagePath": "staticwebassets\\images\\footer-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\instagram.png",
+      "PackagePath": "staticwebassets\\images\\instagram.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\left-angle.png",
+      "PackagePath": "staticwebassets\\images\\left-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\left-black-arrow.png",
+      "PackagePath": "staticwebassets\\images\\left-black-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\location.png",
+      "PackagePath": "staticwebassets\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\logo.png",
+      "PackagePath": "staticwebassets\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\mail.png",
+      "PackagePath": "staticwebassets\\images\\mail.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\next-arrow.png",
+      "PackagePath": "staticwebassets\\images\\next-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\next-grey.png",
+      "PackagePath": "staticwebassets\\images\\next-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\play-icon.png",
+      "PackagePath": "staticwebassets\\images\\play-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\prev-arrow.png",
+      "PackagePath": "staticwebassets\\images\\prev-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\prev-grey.png",
+      "PackagePath": "staticwebassets\\images\\prev-grey.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\quote.png",
+      "PackagePath": "staticwebassets\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\right-angle.png",
+      "PackagePath": "staticwebassets\\images\\right-angle.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\right-black-arrow.png",
+      "PackagePath": "staticwebassets\\images\\right-black-arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\telephone.png",
+      "PackagePath": "staticwebassets\\images\\telephone.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ElmaDina\\source\\repos\\iti\\MVC\\Profile\\Profile\\Profile\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Profile.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Profile.props",
+      "PackagePath": "build\\Profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Profile.props",
+      "PackagePath": "buildMultiTargeting\\Profile.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Profile.props",
+      "PackagePath": "buildTransitive\\Profile.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

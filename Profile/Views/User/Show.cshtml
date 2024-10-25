@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model User
+
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<h2 style="color: gray;">User Details</h2>
+
+<div class="card">
+    <div class="card-header">
+        <h3 style="color: darkgreen">@Model.Name</h3>
+    </div>
+    <div class="card-body">
+        <p style="color: seagreen"><strong>Id:</strong> @Model.Id</p>
+        <p style="color: seagreen;"><strong>Name:</strong> @Model.Name</p>
+        <p style="color: seagreen;"><strong>Age:</strong> @Model.Age</p>
+        <p style="color: seagreen;"><strong>Email:</strong> @Model.Email</p>
+        <p style="color: seagreen;">
+            <strong>
+
+
+<a class="btn btn-secondary" href="/User/Index">Back to User List</a>
